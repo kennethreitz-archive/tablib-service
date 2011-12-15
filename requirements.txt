@@ -2,5 +2,7 @@ Flask==0.8
 Jinja2==2.6
 Werkzeug==0.8.1
 distribute==0.6.24
+gunicorn==0.13.4
+requests==0.8.5
 tablib==0.9.11
 wsgiref==0.1.2

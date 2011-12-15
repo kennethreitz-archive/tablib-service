@@ -1,0 +1,6 @@
+Flask==0.8
+Jinja2==2.6
+Werkzeug==0.8.1
+distribute==0.6.24
+tablib==0.9.11
+wsgiref==0.1.2

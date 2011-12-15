@@ -9,4 +9,4 @@ Usage
 
 Convert a CSV file to XLS::
 
-    $ curl -d users.csv http://api.python-tablib.org/xls > users.xls
+    $ curl -d users.csv http://api.python-tablib.org/csv/xls > users.xls

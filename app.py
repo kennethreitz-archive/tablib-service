@@ -7,8 +7,6 @@ tablib-service
 This is a simple web service for converting tabular datasets.
 """
 
-from collections import OrderedDict
-
 import tablib
 from flask import Flask, request, jsonify
 
